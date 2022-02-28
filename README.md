@@ -21,5 +21,3 @@
 </div><br/>
 
 Frontend finalizado, backend em processo de finalização e softskills sempre no aprendizado.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamnstolb&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
