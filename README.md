@@ -18,4 +18,4 @@
   <img align="center" alt="sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div><br/>
 
-Frontend e backend finalizados, CC em processo de finalização e softskills sempre no aprendizado.
+Frontend e backend na Trybe e softskills sempre no aprendizado.
